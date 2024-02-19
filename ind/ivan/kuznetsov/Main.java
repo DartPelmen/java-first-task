@@ -1,4 +1,4 @@
-package ind.ivan.ivankuznetsov;
+package ind.ivan.kuznetsov;
 
 public class Main {
 

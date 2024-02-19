@@ -1,4 +1,4 @@
-package ind.ivan.ivankuznetsov;
+package ind.ivan.kuznetsov;
 
 import java.time.Duration;
 

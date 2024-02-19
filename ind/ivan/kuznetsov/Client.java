@@ -1,4 +1,4 @@
-package ind.ivan.ivankuznetsov;
+package ind.ivan.kuznetsov;
 
 public interface Client {
     //блокирующий вызов сервиса 1 для получения статуса заявки
