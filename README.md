@@ -1,0 +1,1 @@
+Реализация Handler - класс HandlerImpl
